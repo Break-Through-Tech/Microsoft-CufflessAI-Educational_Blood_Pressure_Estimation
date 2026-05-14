@@ -140,7 +140,7 @@ I'm excited to work with you!
 
 ## ❓ Questions?
 
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
+Please bring any questions to our first meeting, scheduled for the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
 
 ---
 
@@ -149,15 +149,15 @@ Please bring any questions to our first meeting during the week of August 24th (
 
 | Check | Status | Notes |
 |-------|--------|-------|
-| Python Compatibility | GREEN | The tech stack is centered on Python, making it compatible with the fellows' experience and academic requirements. |
-| Data Readiness | YELLOW | While the data is publicly available, there may be a need for preprocessing since it originates from different formats (CSV/TSV and Matlab), which could require additional effort. |
-| Resource Check | GREEN | No specialized hardware requirements; free-tier tools (Google Colab) can accommodate the project needs without additional cost. |
+| Python Compatibility | 🟢 | The tech stack is centered on Python, aligning with the fellows' experience and academic requirements. |
+| Data Readiness | YELLOW | While the data is publicly available, preprocessing may be needed because it originates in different formats (CSV/TSV and MATLAB), which could require additional effort. |
+| Resource Check | 🟢 | No specialized hardware required; free-tier tools (Google Colab) can meet the project's needs at no additional cost. |
 
 **Student Fit Score:** 7/10  
 **Technical Depth Score:** 8/10  
 **Overall Recommendation:** REVISE
 
 **Advisor Feedback Draft:**
-The project leverages relevant and compelling datasets for public health applications, providing a rich educational opportunity. However, we should consider simplifying aspects of the machine learning techniques to align better with the fellows' existing expertise in basic modeling or provide supplementary resources. Ensuring students are adequately prepared for the unique characteristics of working with medical data is crucial. I recommend working closely with mentors to address these challenges.
+The project leverages relevant and compelling datasets for public health applications, providing a rich educational opportunity. However, we should consider simplifying aspects of the machine learning techniques to better align with the fellows' existing expertise in basic modeling or provide supplementary resources. Ensuring students are adequately prepared for the unique characteristics of working with medical data is crucial. I recommend working closely with mentors to address these challenges.
 
 ---
